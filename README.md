@@ -20,34 +20,6 @@ Back-end: PostgreSQL, Flask, psycopg2 and Python
 
 Machine-learning-pipeline: PyTorch
 
-## Team Description
-
-
-
-```
-Team Leader Name: Sshubam Verma
-Team Leader GitHub: Sshubam
-Linkedin: https://www.linkedin.com/in/sshubam-verma-7b70bb19b/
-DiscordTag: Sshubam#5388
-
-Team Member Name: Vansh Comar
-Team Member GitHub: vacom13
-Twitter: vacom13
-Linkedin: https://www.linkedin.com/in/vanshcomar/
-DiscordTag: honeybubble#7906
-
-Team Member Name: Amith Harish
-Team Member GitHub: Amith0205
-Linkedin: https://www.linkedin.com/in/amith-harish-59aa8221b/
-DiscordTag: Amith#3879
-
-Team Member Name: Ishank Jena
-Team Member GitHub: ishankjena
-Linkedin: https://www.linkedin.com/in/ishankjena/
-DiscordTag: jenzen#6969
-```
-
-
 ## Screenshots and reference Images
 
 ``Home section:`` landing section of the website
